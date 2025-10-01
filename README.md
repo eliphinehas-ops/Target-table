@@ -1,1 +1,2 @@
 # Target-table
+This is a project to build a target table for the Customer growth, Product development and other teams at Rental bike business, using BigQuery and SQL with the public datasets and datasets of respective  business. The target table was built inorder to capture the data requirements of different teams. And it is made totally ready with consistency to use for creating dashboards and analysis further.
